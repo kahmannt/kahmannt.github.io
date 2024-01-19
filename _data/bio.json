@@ -2,17 +2,14 @@
   "basics": {
     "name": "Tyler Kahmann",
     "label": "Shidler Undergraduate",
-    "picture": "https://github.com/kahmannt.png",
+    "picture": "",
     "email": "kahmannt@hawaii.edu",
     "phone": "",
     "website": "https://kahmannt.github.io",
     "summary": "I am majoring in Finance, MIS, and International Business. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "kahmannt", "url": "http://github.com/kahmannt" },
     ]
   },
   "interests": [
