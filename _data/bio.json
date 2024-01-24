@@ -6,43 +6,49 @@
     "email": "kahmannt@hawaii.edu",
     "phone": "",
     "website": "https://kahmannt.github.io",
-    "summary": "I am majoring in Finance, MIS, and International Business. I expect to graduate in Spring, 2025.",
+    "summary": "I am studying for a B.B.A. in Finance, Management Information Systems, and International Business in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "kahmannt", "url": "http://github.com/kahmannt" }
     ]
   },
   "interests": [
-    { "name": "Music, Language, Tech" }
+    { "name": "Music" },
+    { "name": "Language" },
+    { "name": "Travel" },
+    { "name": "Tech" }
   ],
   "skills": [
-    {
-      "name": "",
-      "keywords": [
-      ]
-    }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Finance, Management Information Systems, International Business",
-      "studyType": "B.S.",
-      "startDate": "2020-08-09",
+      "area": "Business (expected Spring, 2025)",
+      "studyType": "B.B.A.",
+      "startDate": "2020-08",
       "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Keio University, Tokyo, Japan",
+      "area": "Business",
+      "studyType": "Exchange",
+      "startDate": "2022-10",
+      "endDate": "2023-08",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "University Health Services Mānoa",
+      "position": "Clerk Receptionist",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2021-05",
+      "endDate": "2022-08",
+      "summary": "Assisted in the clinic's daily operations",
       "highlights": [
-        ""
       ]
     }
   ],
@@ -60,22 +66,22 @@
   ],
   "awards": [
     {
-      "title": "UH Mānoa Merit Scholarship",
+      "title": "Merit Scholarship",
       "date": "2020-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of at least 3.8 at a Hawai'i public school."
+      "awarder": "University of Hawaii at Mānoa",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.8 at a Hawai'i public school."
     },
     {
       "title": "UH Mānoa Dean's List",
       "date": "2020-Present",
-      "awarder": "UH Mānoa",
-      "summary": "Recognizes students who completed each semester with a minimum GPA of 3.5."
+      "awarder": "University of Hawaii at Mānoa",
+      "summary": "List of students recognized as maintaining a minimum 3.5 GPA."
     },
     {
       "title": "US Japan Bridging Scholarship",
       "date": "2022",
       "awarder": "US Japan Bridging Foundation",
-      "summary": "$4,000 scholarship awarded to roughly 80 out of 300 applicants across the US for the purpose of studying abroad in Japan."
+      "summary": "Scholarship awarded to roughly 80 out of 300 applicants across the US for the purpose of studying abroad in Japan."
     }
   ],
   "references": [
