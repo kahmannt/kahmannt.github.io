@@ -4,7 +4,7 @@ type: essay
 title: "UI Basics Technical Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-31
-published: true
+published: false
 ---
 
 ## UI Basics Technical Essay
