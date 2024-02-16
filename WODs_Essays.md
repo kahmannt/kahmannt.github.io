@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI Basics Essay"
+title: "WODs Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-06
 published: true
