@@ -31,7 +31,7 @@ To be better prepared, I could review the material more closely. Because I am mo
 
 ## Progress in Programming
 
-My programming skills have greatly improved in the following ways:
+My programming skills have greatly improved in the following ways:<br>
 I started knowing absolutely nothing, so I would say I improved just by having what little coding ability that I do now. I've gained a firmer grasp on the basics we've been taught to the extent that I can think of ways to code something but will need a bit of help actually making it work.
 
 I need to work on the following to improve my programming skills:
