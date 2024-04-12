@@ -34,20 +34,20 @@ To be better prepared, I could review the material more closely. Because I am mo
 My programming skills have greatly improved in the following ways:<br>
 I started knowing absolutely nothing, so I would say I improved just by having what little coding ability that I do now. I've gained a firmer grasp on the basics we've been taught to the extent that I can think of ways to code something but will need a bit of help actually making it work.
 
-I need to work on the following to improve my programming skills:
+I need to work on the following to improve my programming skills:<br>
 Thinking more critically and applying what skills I've learned more effectively when trying to problem solve. There were times I turned to chatgpt just for it to spit something out that I should've been able to accomplish on my own. I just hadn't thought to code in that way. I guess that also means being more flexible in my thinking.
 
-I have learned a lot from doing WODs and I can do them without copying the screencast:
+I have learned a lot from doing WODs and I can do them without copying the screencast:<br>
 This is mostly true. The last few WODs with no screencast went swimmingly.
 
-The labs have help me learn and I am able to complete them with confidence:
+The labs have help me learn and I am able to complete them with confidence:<br>
 This is mostly true. I don't know about completing labs on my own since that hasn't happened, but I think I could get through it.
 
-I learned a lot from my experience doing Assignment 1 and feel ready to work on Assignment 2:
+I learned a lot from my experience doing Assignment 1 and feel ready to work on Assignment 2:<br>
 I feel like I've learned a lot from Assignment 1 but I also need a break before jumping right into assignment 2. I don't think I will get that break.
 
-I think the class can be improved to help my learning in the following ways:
+I think the class can be improved to help my learning in the following ways:<br>
 I was cool with it.
 
-What helps me the most in class are (WODs, Labs, class website, screencasts, readings, quizzes, one on one help, working with classmates, etc.):
+What helps me the most in class are (WODs, Labs, class website, screencasts, readings, quizzes, one on one help, working with classmates, etc.):<br>
 I think the WODs helped with applying the things from labs. Having the labs to look back on were also very helpful. Having screencasts was nice as well, just to have a crutch when things got confusing.
