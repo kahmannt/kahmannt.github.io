@@ -53,19 +53,19 @@ What helps me the most in class are (WODs, Labs, class website, screencasts, rea
 I think the WODs helped with applying the things from labs. Having the labs to look back on were also very helpful. Having screencasts was nice as well, just to have a crutch when things got confusing.
 
 ## Reflecting on Assignment 2
-1. Provide a brief introduction to the assignment along with a link to this page for further details
+1. Provide a brief introduction to the assignment along with a link to this page for further details<br>
    Assignment 2 was geared toward creating a login page and registration page where users would have to either log in or sign up for an account before getting their invoice. <https://dport96.github.io/ITM352/modules/Assignment2/>
-2. What did you learn from this assignment?
+2. What did you learn from this assignment?<br>
    I learned how difficult it is just to have a login and registration page. Without help, I would've had no idea how to write user data to a file with regisration info, pass quantities in the URL so that the invoice actually gets them, etc. It also built upon my coding knowledge, helping me to better understand how to use code to get a specific outcome.
-3. Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself).
-   I did not.
-4. How did you get help when you needed it? What did you need help with?
-   I did not get help.
-5. How was developing this assignment different than assignment #1?
-   I think it was easier for me. I had realized from assignment 1 that reviewing the code a bit more closely and thinking critically about it can help me to take chatGPT code and actually get it to work when it flopped.
-6. Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging
-    50% thinking about it, 40% writing, 10% testing
-7. Describe what worked well with this project? What did not work well?
-    Using chatGPT both worked well and did not work well. Sometimes it dropped some heat, sometimes it was whack.
-8. If you could go back in time and do things differently, what would you do differently?
+3. Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself).<br>
+   I did not.<br>
+4. How did you get help when you needed it? What did you need help with?<br>
+   I did not get help.<br>
+5. How was developing this assignment different than assignment #1?<br>
+   I think it was easier for me. I had realized from assignment 1 that reviewing the code a bit more closely and thinking critically about it can help me to take chatGPT code and actually get it to work when it flopped.<br>
+6. Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging<br>
+    50% thinking about it, 40% writing, 10% testing<br>
+7. Describe what worked well with this project? What did not work well?<br>
+    Using chatGPT both worked well and did not work well. Sometimes it dropped some heat, sometimes it was whack.<br>
+8. If you could go back in time and do things differently, what would you do differently?<br>
     Not a single thing.
